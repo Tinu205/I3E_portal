@@ -1,5 +1,4 @@
 <link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
-
     <style>
       .bd-placeholder-img {
         font-size: 1.125rem;
@@ -72,27 +71,27 @@
       .bd-mode-toggle {
         z-index: 1500;
       }
+      .nav-item{
+        padding-right:1vw;
+      }
     </style>
-
-    
-    <!-- <link href="navbar-fixed.css" rel="stylesheet"> -->
-  </head>
-  <body>
-  
 <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
   <div class="container-fluid">
-    <img src="assets/brand/ieee_blue.png" width ="100">
-    </button>
-    <div class="collapse navbar-collapse" id="navbarCollapse">
-      <ul class="navbar-nav me-auto mb-2 mb-md-0">
+  <div class="navbar-collapse collapse d-flex justify-content-between" id="navbarCollapse">
+    <img src="assets/brand/ieee_blue.png" width="150" style="padding-left: 1vw;">
+    
+      <ul class="navbar-nav mb-2 mb-md-0">
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Our goals</a>
+          <a class="nav-link active" aria-current="page" href="#">Events</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Events</a>
+          <a class="nav-link active" aria-current="page" href="#">Our Events</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Our goals</a>
         </li>
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">Contacts</a>
@@ -101,3 +100,4 @@
     </div>
   </div>
 </nav>
+
