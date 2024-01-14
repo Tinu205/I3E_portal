@@ -11,10 +11,6 @@
     <meta name="description" content="">
 
     <title>IEEE licet</title>
-
-
-    
-
 <link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <style>
