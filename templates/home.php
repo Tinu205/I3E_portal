@@ -1,12 +1,11 @@
 <style>
     .home{
-        height : 100vh;
-        margin-top:10em;
+        margin-top:8em;
     }
 </style>
 
-<div class = "container">
-<section class="py-5 text-center home">
+<div class = "container home">
+<section class="py-5 text-center">
     <div class="row py-lg-5">
       <div class="col">
       <img src="assets/brand/licet-e1617087721530.png"></img>

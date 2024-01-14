@@ -74,13 +74,13 @@
     
       <ul class="navbar-nav mb-2 mb-md-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link active" aria-current="page" href="#hom">Home</a>
         </li>
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">Events</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Our Events</a>
+          <a class="nav-link active" aria-current="page" href="#past_eve">Our Events</a>
         </li>
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">Our goals</a>
