@@ -14,7 +14,7 @@
 <link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <style>
-      #hom,#past_eve{
+      #hom,#past_eve,#our_goals,#current_eve{
         height: 100vh;
         padding-top: 50px;
       }
@@ -107,12 +107,27 @@
     load_template("home");
   ?>
   </div>
-
-  <div id="past_eve">
-  <?php
-    load_template("past_events");
-  ?>
+  <div id="our_goals">
+      <?php
+        load_template("or_goal");
+      ?>
   </div>
+  <div id="current_eve">
+    <?php
+      load_template("current_event");
+    ?>
+  </div>
+  <div id="past_eve">
+    <?php
+      load_template("past_events");
+    ?>
+  </div>
+  <div id="cont">
+    <?php
+      load_template("contacts");
+    ?>
+  </div>
+
 
 </main>    
   </body>
