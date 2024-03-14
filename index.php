@@ -12,7 +12,7 @@
 
     <title>IEEE licet</title>
 <link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
-
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     <style>
       #hom,#past_eve,#our_goals,#current_eve{
         height: 100vh;
@@ -94,6 +94,10 @@
     
   </head>
 <body>  
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
 <header data-bs-theme="dark">
   <?php
     load_template("nav_bar");

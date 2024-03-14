@@ -12,14 +12,16 @@
         width: 100%;
     }
     .navbar-nav .nav-link {
+        /* padding-left:100px; */
         color: #333 !important; /* Set text color to dark */
         font-family: 'Montserrat', sans-serif; /* Use Montserrat font */
         font-size: 1.2rem; /* Increase font size */
         transition: color 0.3s, background-color 0.3s; /* Add transition for smoother color change */
     }
     .navbar-nav .nav-link:hover {
-        color: #555 !important; /* Change text color when hovered */
-        background-color: #f8f9fa; /* Change background color when hovered */
+        color: #ffffff !important; /* Change text color when hovered */
+        background-color: #FFA361; /* Change background color when hovered */
+        border-radius: 10px;
     }
 </style>
 <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">

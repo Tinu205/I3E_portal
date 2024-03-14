@@ -37,12 +37,12 @@
 
 <div class="container home">
     <section class="py-5 text-center">
-        <div class="row py-lg-5">
+        <div class="row py-lg-5" data-aos="fade-up"     data-aos-delay="50" data-aos-duration="1000" data-aos-easing="ease-in-out">
             <div class="col brand-img">
                 <img src="assets/brand/licet-e1617087721530.png" alt="Licet Logo">
             </div>
             <div class="col-lg-6 col-md-8 mx-auto">
-                <h1 class="fw-light">IEEE Licet</h1>
+                <h1 class="fw" style="color:#000080">IEEE Licet</h1>
                 <p class="lead text-body-secondary">
                     We at Licet provide the best hands-on experience to the students.
                 </p>

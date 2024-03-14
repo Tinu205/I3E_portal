@@ -25,7 +25,7 @@
                                 <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                                 <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                             </div>
-                            <small class="text-body-secondary">9/11</small>
+                            <small class="text-body-secondary">9/11/2001</small>
                         </div>
                     </div>
                 </div>
@@ -39,7 +39,7 @@
                             <div class="btn-group">
                                 <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                             </div>
-                            <small class="text-body-secondary">9/11/2010</small>
+                            <small class="text-body-secondary">9/11/2001</small>
                         </div>
                     </div>
                 </div>
